@@ -1,6 +1,7 @@
 class HashOfString {    
     constructor(scopedLetters) {
-        this.scopedLetters = scopedLetters;                
+        this.scopedLetters = scopedLetters;   
+        //ex: 'acdefgilnoprstuw'
     }
     
      
